@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img src="Pink Black Bold Profile Twitter Header.png" alt="banner" width="100%" />
+<img src="banner.PNG" alt="banner" width="100%" />
 
 
 ## 👋 Hey there! I'm Abshar <br><br>🔭 I’m currently working on  <br>Full-stack web development projects using React.js, Node.js, and modern APIs. Currently building scalable web apps that solve real-world problems.<br><br>👯 I’m looking to collaborate on  <br>Innovative frontend/backend web apps, open-source contributions, and hackathons—especially those around JavaScript and modern frameworks.<br><br>🤝 I’m looking for help with  <br>Mastering advanced backend architecture and improving my deployment workflows with DevOps tools.<br><br>🌱 I’m currently learning  <br>Advanced JavaScript, RESTful APIs, and Object-Oriented Programming in Python.<br><br>💬 Ask me about  <br>Web development, JavaScript, React, Node.js, or organizing tech events <br><br>⚡ Fun fact  <br>Apart from coding, I enjoy football, editing videos/photos, and focusing on fitness and self-growth.<br>
